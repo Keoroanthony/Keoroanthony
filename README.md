@@ -4,7 +4,7 @@ Hi there 👋<br/>
 ABOUT ME<br/>
 -💻 I'm a FullStack Developer in java/PHP Laravel<br/>
 -📧 How to reach me: anthony.keoro@gmail.com<br/>
--💬 Ask me about spring boot/hibernate<br/>
+-💬 Ask me about spring boot/hibernate/Rest APIs<br/>
 STACK<br/>
 -Java<br/>
 -SpringBoot<br/>
