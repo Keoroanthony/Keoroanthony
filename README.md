@@ -7,6 +7,7 @@ ABOUT ME<br/>
 -💬 Ask me about spring boot/hibernate/Rest APIs<br/>
 STACK<br/>
 -Java<br/>
+-Laravel<br/>
 -SpringBoot<br/>
 -React/ThymeLeaf/Angular<br/>
 -NoSQL/MongoDB/MySQL<br/>
