@@ -10,7 +10,7 @@ STACK<br/>
 -Laravel<br/>
 -SpringBoot<br/>
 -React/ThymeLeaf/Angular<br/>
--NoSQL/MongoDB/MySQL<br/><br><br>
+-NoSQL/MongoDB/MySQL<br/><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keoroanthony&show_icons=true&theme=darcula)](https://github.com/Keoroanthony/github-readme-stats)
 [![Nzovia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keoroanthony&show_icons=true&theme=darcula)](https://github.com/Keoroanthony/github-readme-stats)
 <!---
