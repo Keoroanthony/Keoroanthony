@@ -1,8 +1,7 @@
 Hi there 👋<br/>
-👀 I’m a software Engineer.<br/>
-- 🌱...currently working on something cool!<br/>
 ABOUT ME<br/>
 -💻 I'm a Sofware Engineer<br/>
+- 🌱...currently working on something cool!<br/>
 -📧 Reach me <a href="https://anthony-keoro.netlify.app/">Here</a><br/>
 STACK<br/>
 -Java/Python/PHP<br/>
