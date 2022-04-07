@@ -2,15 +2,16 @@ Hi there 👋<br/>
 👀 I’m a software Engineer.<br/>
 - 🌱...currently working on something cool!<br/>
 ABOUT ME<br/>
--💻 I'm a FullStack Developer in java/PHP Laravel<br/>
--📧 How to reach me: anthony.keoro@gmail.com<br/>
--💬 Ask me about spring boot/hibernate/Rest APIs<br/>
+-💻 I'm a Sofware Engineer<br/>
+-📧 Reach me <a href="https://anthony-keoro.netlify.app/">Here</a><br/>
 STACK<br/>
--Java<br/>
--Laravel<br/>
--SpringBoot<br/>
--React/Angular<br/>
--NoSQL/MongoDB/MySQL/SQL-lite<br/><br>
+-Java/Python/PHP<br/>
+-SpringBoot/Laravel/Flask<br/>
+-ReactJs/Angular/Vuejs<br/>
+-NoSQL/SQL<br/>
+DEVOPS<br/>
+-Docker & Kubernetes
+-CI/CD jenkins<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keoroanthony&show_icons=true&theme=darcula)](https://github.com/Keoroanthony/github-readme-stats)
 [![Nzovia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keoroanthony&show_icons=true&theme=darcula)](https://github.com/Keoroanthony/github-readme-stats)
 <!---
