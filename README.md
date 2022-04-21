@@ -2,7 +2,7 @@ Hi there 👋<br/>
 ABOUT ME<br/>
 - 💻 I'm a Sofware Engineer<br/>
 - 🌱...currently working on something cool!<br/>
-- 📧 Reach me <a href="https://anthony-keoro.netlify.app/" style="colour:green;">here</a><br/>
+- 📧 Reach me <a href="https://anthony-keoro.netlify.app/">here</a><br/>
 STACK<br/>
 - Java/Python/PHP<br/>
 - SpringBoot/Laravel/Flask<br/>
