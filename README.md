@@ -24,8 +24,9 @@ I love to learn and build stuff. I am currently learning alot about Java and its
   <a href="https://www.linkedin.com/in/kitongangugi/](https://www.linkedin.com/in/anthony-keoro-0b0759207/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>&nbsp;
-  <a href="https://join.skype.com/invite/MKKnU6CbSVXG/">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&style=for-the-badge&logoColor=white" />
+  <a href="https://anthony-keoro.netlify.app/">
+    <img src="https://img.shields.io/badge/Web-00AFF0?logo=web&style=for-the-badge&logoColor=white" />
+<!--    <img src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&style=for-the-badge&logoColor=white" /> -->
   </a>
 </div>
 
