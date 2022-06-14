@@ -67,5 +67,6 @@ I love to learn and build stuff. I am currently learning alot about Java and its
 
 <div>
   <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=Kubernetes&labelColor=5c5c5c&color=326CE5&logoColor=white&label=%20&style=plastic" />
 </div>&nbsp;
 
