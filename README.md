@@ -25,7 +25,8 @@ I love to learn and build stuff. I am currently learning alot about Java and its
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="https://anthony-keoro.netlify.app/">
-    <img src="https://img.shields.io/badge/Web-00AFF0?logo=web&style=for-the-badge&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/Web-00AFF0?logo=web&style=for-the-badge&logoColor=white" /> -->
+   <img src="https://img.shields.io/static/v1?message=Web&logo=WebRTC&labelColor=5c5c5c&color=333333&logoColor=white&label=%20&style=plastic" />
 <!--    <img src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&style=for-the-badge&logoColor=white" /> -->
   </a>
 </div>
