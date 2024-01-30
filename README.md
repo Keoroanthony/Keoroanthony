@@ -21,7 +21,7 @@ DEVOPS<br/>
 I love to learn and build stuff. I am currently learning alot about Java and its awesomeness. Want to connect? Hit me up on:
 
 <div>
-  <a href="https://www.linkedin.com/in/kitongangugi/](https://www.linkedin.com/in/anthony-keoro-0b0759207/">
+  <a href="https://www.linkedin.com/in/anthony-keoro/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="https://anthony-keoro.netlify.app/">
